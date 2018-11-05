@@ -1,0 +1,75 @@
+import java.util.scanner;
+
+public class StudentDataGrade { 
+      public static void main (String [] args) {
+
+  Scanner scr = Scanner (System.in);
+
+  final int NUM_GRADES = 21 ; 
+  int [] StudentName = new int [NUM_GRADES];
+  int [] AvgGrades = new int [NUM_GRADES];
+
+  if (AvgGrades == 31) {
+   System.out.println(" FAIL");
+  }
+  if (AvgGrades == 49) {
+   System.out.println ("FAIL");
+  }
+   if (MinScholarship < 90) {
+    System.out.println ("FAIL");
+   }
+  
+  this.grade= grade;
+  this.name=name;
+  int i; 
+
+  StudentName [0] = Caron Devers;
+  StudentName [1] = Kylie Whitham; 
+  StudentName [2] = Tami Davenport; 
+  StudentName [3] = Roma Skelton;
+  StudentName [4] = Diana Barletta;
+  StudentName [5] = Deborah Darrell;
+  StudentName [6] = Marcelina Mccain;
+  StudentName [7] = Shirley Gisi;
+  StudentName [8] = Monique Montesdeoca;
+  StudentName [9] = Luigi Botello;
+  Studentname [10] = Heidy Fillippi;
+  StudentName [11] = Nadine Broadnax;
+  StudentName [12] = Olen Brand;
+  StudentName [13] = Nancee Farnsworth;
+  StudentName [14] = Valentine Lamontagne;
+  StudentName [15] = Sherley Slinkard; 
+  StudentName [16] = Lovie Peppler;
+  StudentName [17] = Carlota Peltz; 
+  StudentName [18] = Professor Fancy-Pants; 
+
+  AvgGrades [0] = 92; 
+  AvgGrades [1] = 74;
+  AvgGrades [2] = 85 MinScholarship ;
+  AvgGrades [3] = 69;
+  AvgGrades [4] = 95;
+  AvgGrades [5] = 49;
+  AvgGrades [6] = 93;
+  AvgGrades [7] = 79;
+  AvgGrades [8] = 82 MinScholarship ;
+  AvgGrades [9] = 67;
+  AvgGrades [10] = 92;
+  AvgGrades [11] = 31;
+  AvgGrades [12] = 90;
+  AvgGrades [13] = 74;
+  AvgGrades [14] = 87;
+  AvgGrades [15] = 76;
+  AvgGrades [16] = 65;
+  AvgGrades [17] = 77;
+  AvgGrades [18] = 100;
+
+
+
+
+      }
+
+}
+
+     }
+
+   }
